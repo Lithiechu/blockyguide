@@ -439,9 +439,9 @@ This is what an inexperienced player might do:
 
 1: Start  
 2: Rotate CW  
-3: Move left  
-4: Move left  
-5: Move left
+3: Move right  
+4: Move right  
+5: Move right
 
 The "perfect finesse" would be:
 
