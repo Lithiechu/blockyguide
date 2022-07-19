@@ -51,7 +51,7 @@ The goal in versus tetris is to defeat your opponent. This is done by causing th
 
 When you clear lines in singleplayer Tetris, you gain points. Clearing more lines simultaneously rewards more points.
 
-Clearing lines in singleplayer Tetris will **send garbage lines** to your opponent(s). Clearing more lines simultaneously will send more garbage lines.
+Clearing lines in multiplayer Tetris will **send garbage lines** to your opponent(s). Clearing more lines simultaneously will send more garbage lines.
 
 A common metric to measure a player's offense is APM (attack per minute), where Attack refers to the amount of lines sent to the opponent.
 
